@@ -1,0 +1,17 @@
+ul.objectives {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.objectives li::before {
+    content: "✔️";
+    margin-right: 0.5em;
+}
+
+.bonus h2 {
+    font-size: 1.25em;
+}
+
+.bonus h3 {
+    font-size: 1em;
+}
